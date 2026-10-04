@@ -8,6 +8,7 @@ Big Brain Ape is a fully autonomous AI trading agent that trades 98 perpetual as
 
 ## Architecture
 
+- **AI Models**: GLM 5.2 (Venice.ai) + Kimi K3 (Moonshot AI) — multi-model reasoning with 1M context
 - **Trading Engine**: Druckenmiller-inspired macro framework with three-lens analysis (Liquidity, Valuation, Technicals)
 - **Asset Universe**: 65 crypto perps (Hyperliquid) + 33 stock/commodity/currency perps (trade.xyz HIP3)
 - **Risk Management**: Max 5x leverage, max 50% single position, 20% drawdown circuit breaker
